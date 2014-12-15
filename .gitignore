@@ -19,3 +19,4 @@ coverage
 
 Thumbs.db
 .ruby-gemset
+.ruby-version
