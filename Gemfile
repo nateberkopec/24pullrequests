@@ -57,7 +57,7 @@ group :development, :test, :cucumber do
 
   # Auto testing
   gem 'guard-rspec', '~> 4.4.2'
-  gem 'guard-spork'
+  gem 'guard-spork', '~> 2.0'
   gem 'ruby_gntp'
   gem 'rb-fsevent'
 
